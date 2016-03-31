@@ -5,3 +5,5 @@ Its *late* in the day. We are doing some guided pair programming!
 
 [DevBootCamp](http://devbootcamp.com/)
 ![First GPS!](GPSScreenShot.png)
+
+bye
